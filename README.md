@@ -17,7 +17,19 @@ This repository contains cybersecurity related CTFs, challenges and labs with th
 | [Program Misuse](https://github.com/Parthik-Bhardwaj/CTFs-Challenges-Labs/blob/main/pwn.college/Fundamentals/Program%20Misuse/Notes.md) | Fundamentals | ![20/51](https://progress-bar.dev/39) |
 | [Program Interaction]() | Fundamentals | 0/142 |
 
+<br>
 
+
+
+## [TryHackMe](https://tryhackme.com/)
+
+| Name Link (notes) | Progress |
+| :-: | :-: |
+| [Junior Security Analyst Intro](https://github.com/Parthik-Bhardwaj/CTFs-Challenges-Labs/blob/main/TryHackMe/Junior%20Security%20Analyst%20Intro/notes.md) | In Progress |
+| [BasicPentesting](https://github.com/luisrodrigues154/Cyber-Security/tree/master/TryHackMe/BasicPentesting/notes.md) | In Progress |
+
+
+<br>
 <!--
 <br>
 /*
