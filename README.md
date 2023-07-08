@@ -14,7 +14,7 @@ This repository contains cybersecurity related CTFs, challenges and labs with th
 
 | Module | Topic | Progress |
 | :-: | :-: | :-:|
-| [Program Misuse](https://github.com/Parthik-Bhardwaj/CTFs-Challenges-Labs/blob/main/pwn.college/Fundamentals/Program%20Misuse/Notes.md) | Fundamentals | ![12/51](https://progress-bar.dev/23) |
+| [Program Misuse](https://github.com/Parthik-Bhardwaj/CTFs-Challenges-Labs/blob/main/pwn.college/Fundamentals/Program%20Misuse/Notes.md) | Fundamentals | ![20/51](https://progress-bar.dev/39) |
 | [Program Interaction]() | Fundamentals | 0/142 |
 
 
