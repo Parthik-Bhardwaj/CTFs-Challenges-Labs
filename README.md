@@ -19,14 +19,13 @@ This repository contains cybersecurity related CTFs, challenges and labs with th
 
 <br>
 
-
-
 ## [TryHackMe](https://tryhackme.com/)
 
-| Name Link (notes) | Progress |
+| Name Link (notes) | Status |
 | :-: | :-: |
-| [Junior Security Analyst Intro](https://github.com/Parthik-Bhardwaj/CTFs-Challenges-Labs/blob/main/TryHackMe/Junior%20Security%20Analyst%20Intro/notes.md) | In Progress |
-| [BasicPentesting](https://github.com/luisrodrigues154/Cyber-Security/tree/master/TryHackMe/BasicPentesting/notes.md) | In Progress |
+| [Junior Security Analyst Intro](https://github.com/Parthik-Bhardwaj/CTFs-Challenges-Labs/blob/main/TryHackMe/Junior%20Security%20Analyst%20Intro/notes.md) | <img alt="In Progress" src="https://img.shields.io/badge/In%20Progress-E39842"/> |
+| [BasicPentesting](https://github.com/luisrodrigues154/Cyber-Security/tree/master/TryHackMe/BasicPentesting/notes.md) | <img alt="Solved" src="https://img.shields.io/badge/Solved-3E1AD0E"/> |
+
 
 
 <br>
